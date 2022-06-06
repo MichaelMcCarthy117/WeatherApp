@@ -1,2 +1,2 @@
 # WeatherApp
- JavaScript weather app
+ JavaScript weather app working with openweathermap api
